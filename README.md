@@ -32,6 +32,14 @@ Certificate covering fundamental **computer networking concepts**, including net
 
 ---
 
+### 📱 Mobile App Competition
+
+Participation in a **mobile app competition**, showcasing problem-solving, creativity, and app development skills in a competitive setting.
+
+📁 `Mobile App Competition/`
+
+---
+
 ## 🛠️ Areas of Learning
 
 * Artificial Intelligence & AI Tools
